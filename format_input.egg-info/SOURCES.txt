@@ -1,0 +1,9 @@
+README.md
+format_input.py
+pyproject.toml
+format_input.egg-info/PKG-INFO
+format_input.egg-info/SOURCES.txt
+format_input.egg-info/dependency_links.txt
+format_input.egg-info/entry_points.txt
+format_input.egg-info/requires.txt
+format_input.egg-info/top_level.txt

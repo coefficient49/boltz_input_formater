@@ -1,0 +1,2 @@
+[console_scripts]
+format_boltz_input = format_input:main

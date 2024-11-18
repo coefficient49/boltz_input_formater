@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: format_input
+Version: 0.1.0
+Summary: A simple CLI tool built with Click
+Author-email: Jeron <jechen@vygr.com>
+Keywords: cli,click,tool
+Description-Content-Type: text/markdown
+Requires-Dist: click

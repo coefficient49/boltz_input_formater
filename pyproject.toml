@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "format_input"
+version = "0.1.0"
+description = "A simple CLI tool built with Click"
+readme = "README.md"
+keywords = ["cli", "click", "tool"]
+authors = [
+    { name = "Jeron", email = "jechen@vygr.com" }
+]
+dependencies = ["click"]
+
+[project.scripts]
+format_boltz_input = "format_input:main"
